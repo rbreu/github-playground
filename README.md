@@ -5,7 +5,7 @@ A project for learning the github workflow.
 Feel free to open pull requests and play around to see how the github workflow works.
 
 
-## The basic workfow
+## The basic workflow
 
 1. Fork this github repository. Use the "Fork" button on the github page. You have now your own version of this repository you can submit changes to.
 
