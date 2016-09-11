@@ -29,19 +29,22 @@ Feel free to open pull requests and play around to see how the github workflow w
 7. Make a pull request on the gitbub page
 8. Get changes from main repository back into your fork and clone.
    First, make the main repostory known within your project (only do this once):
+
         git upstream git@github.com:rbreu/github-playground.git
 
    Then you can get the changes by either:
-   git pull upstream master
+
+        git pull upstream master
 
    or:
-   git fetch upstream
-   git checkout master
-   git rebase upstream/master
+
+        git fetch upstream
+        git checkout master
+        git rebase upstream/master
 
   Push to your clone
 
-  git push origin master
+        git push origin master
 
 
 ## Links
