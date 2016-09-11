@@ -26,7 +26,7 @@ Feel free to open pull requests and play around to see how the github workflow w
 
         git push origin my-fix-branch
 
-7. Make a pull request on the gitbub page
+7. Make a pull request on the github page
 8. Get changes from main repository back into your fork and clone.
    First, make the main repostory known within your project (only do this once):
 
