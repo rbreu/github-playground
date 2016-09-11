@@ -46,5 +46,5 @@ Feel free to open pull requests and play around to see how the github workflow w
 
 ## Links
 
-[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-[GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+* [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
