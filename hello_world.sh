@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-echo "Hello world!"
-echo "Change me!"
+printf "Hello world!\n"
+printf "Change me!\n"
