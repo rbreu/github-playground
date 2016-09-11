@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-print('Hello World!')
-print('Change me now!')
+print('Hallo Welt!')
+print('Ändere mich !')
