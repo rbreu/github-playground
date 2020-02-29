@@ -3,7 +3,7 @@
 A safe place to experiment with git & GitHub in a group setting
 
 
-## Purpose
+## Purpose  7
 This is a playground open to anyone looking to practice using git & GitHub in a group project. Feel free to make any and all changes as you test your GitHub chops. One caveat, we ask you please do not change the main readme unless you are making an improvement (P.S. please help the next person and make improvements).
 
 To reiterate this repository is to get people (you!) comfortable with using GitHub - do not be scared to try things out!
@@ -11,7 +11,7 @@ To reiterate this repository is to get people (you!) comfortable with using GitH
 #### Give it a try!
 
 * [Fork](https://help.github.com/articles/fork-a-repo/) the repo (this step is optional if you have have "contributor" access to the repo).
-* [Clone](https://help.github.com/articles/cloning-a-repository/) from your command line `git clone https://github.com/youruserID/github-playground.git`. 
+* [Clone](https://help.github.com/articles/cloning-a-repository/) from your command line `git clone https://github.com/youruserID/github-playground.git`.
 * Move to main directory `cd github-playground`
 * Check your status `git status` Should see "On Branch Master" "Your branch is up-to-date with 'origin/master'"
 * Create and checkout a branch to work from: `git checkout -b <branch_name>` EX: `git checkout -b training-branch` You can see all branches by typing `git branch`. Note: we are using training-branch in this example but by the time you follow these instructions someone may have already created `training-branch` you should create a unique branch.
