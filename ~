@@ -1,0 +1,11 @@
+[user]
+	name = Sandeep Mendiratta
+	email = smendiratta@yahoo.com
+[credential]
+	helper = osxkeychain
+[merge]
+	tool = opendiff
+[alias]
+	mylog = log --pretty=format:'%h %s [%an]' --graph
+	st = status
+    glag = log -E -i --grep
