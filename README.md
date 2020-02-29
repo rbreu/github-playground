@@ -1,9 +1,5 @@
 # github-playground
-<<<<<<< HEAD
-A safe place to experiment with git & GitHub in a group setting
-
-
-## Purpose  7
+## Purpose1
 This is a playground open to anyone looking to practice using git & GitHub in a group project. Feel free to make any and all changes as you test your GitHub chops. One caveat, we ask you please do not change the main readme unless you are making an improvement (P.S. please help the next person and make improvements).
 
 To reiterate this repository is to get people (you!) comfortable with using GitHub - do not be scared to try things out!
