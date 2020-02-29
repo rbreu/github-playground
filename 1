@@ -1,0 +1,26 @@
+[user]
+	name = Sandeep Mendiratta
+	email = smendiratta@yahoo.com
+[credential]
+	helper = osxkeychain
+[merge]
+	tool = opendiff
+[alias]
+	mylog = log --pretty=format:'%h %s [%an]' --graph
+	st = status
+    glag = log -E -i --grep
+    # Show files changed in each commit
+    ll = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'  i  --abbrev-commit --numstat
+
+    # Grep the log
+    glag = log -E -i --grep
+    # Get the current branch name (not so useful in itself, but used in other aliases)
+    branch-name = !git rev-parse --abbrev-ref HEAD
+    # Push the current branch to the remote "origin", and set it to track
+    # the upstream branch
+    publish = !git push -u origin $(git branch-name)
+   # Delete the remote version of the current branch
+    unpublish = !git push origin :$(git branch-name)
+    uncommit = !git reset --soft HEAD^
+    unstage = !git reset
+    upstream = rev-parse --abbrev-ref --symbolic-full-name @{upstream}
